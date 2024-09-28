@@ -1,0 +1,8 @@
+# environment variables
+.env
+
+# Ignore other files, virtual environment
+*.pyc
+__pycache__/
+db.sqlite3
+guest/
